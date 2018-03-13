@@ -1,4 +1,6 @@
-UW_HCDE521
+# HCDE Winter 2018 One and Only Assingment
+## Leo Salemann
+## University of Washington
 
 A totally-fake mockup of a website advertising a completley ficticious AI service.
 
