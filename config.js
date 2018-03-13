@@ -1,1 +1,1 @@
-IDRViewer.config = {"pagecount":1,"title":"Microsoft PowerPoint - HCDE 521 Salemann.pptx","author":"leosa_000","fileName":"HCDE_521_SalemannP2.pdf","bounds":[[935,1210]],"bookmarks":[],"thumbnailType":"jpg","pageType":"svg","pageLabels":[]};
+IDRViewer.config = {"pagecount":1,"title":"cobalt.ai","author":"Leo Salemann","fileName":"HCDE_521_SalemannP2.pdf","bounds":[[935,1210]],"bookmarks":[],"thumbnailType":"jpg","pageType":"svg","pageLabels":[]};
